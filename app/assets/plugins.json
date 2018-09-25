@@ -696,6 +696,12 @@
       "url": "jeffreyguenther/purgecss-brunch",
       "category": "Optimizers",
       "description": "<a href=\"https://github.com/jeffreyguenther/purgecss-brunch\">purgecss-brunch</a> adds support for purgecss.<br>"
+    },
+    {
+      "name": "terser-brunch",
+      "url": "https://github.com/vitalije/terser-brunch",
+      "category": "Optimizers",
+      "description": "Minification of JavaScript using terser"
     }
   ]
 }
